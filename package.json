@@ -1,0 +1,28 @@
+{
+  "name": "gran-dt-fktz",
+  "version": "1.0.0",
+  "description": "proyecto de gran dt para r-arg-programa - clase 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fktz94/gran-dt-fktz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fktz94/gran-dt-fktz/issues"
+  },
+  "homepage": "https://github.com/fktz94/gran-dt-fktz#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4"
+  }
+}

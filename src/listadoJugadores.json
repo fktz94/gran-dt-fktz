@@ -1,0 +1,85 @@
+[
+  {
+    "count": 13,
+    "results": [
+      {
+        "name": "Gianis Antetokounmpo",
+        "equipo": "Milwaukee Bucks",
+        "posicion": ["Ala-pivot", "Pivot"],
+        "valor": 42492492
+      },
+      {
+        "name": "Kevin Durant",
+        "equipo": "Phoenix Suns",
+        "posicion": ["Ala-pivot", "Alero"],
+        "valor": 44119845
+      },
+      {
+        "name": "Jason Tatum",
+        "equipo": "Boston Celtics",
+        "posicion": ["Ala-pivot", "Alero"],
+        "valor": 28103500
+      },
+      {
+        "name": "Joel Embiid",
+        "equipo": "Philadelphia 76ers",
+        "posicion": ["Ala-pivot", "Pivot"],
+        "valor": 33616770
+      },
+      {
+        "name": "Jimmy Butler",
+        "equipo": "Miami Heat",
+        "posicion": ["Ala-pivot", "Alero"],
+        "valor": 37653300
+      },
+      {
+        "name": "Kyrie Irving",
+        "equipo": "Dallas Mavericks",
+        "posicion": ["Base", "Escolta"],
+        "valor": 38917057
+      },
+      {
+        "name": "Donovan Mitchell",
+        "equipo": "Cleveland Cavaliers",
+        "posicion": ["Base", "Escolta"],
+        "valor": 30913750
+      },
+      {
+        "name": "James Harden",
+        "equipo": "Philadelphia 76ers",
+        "posicion": ["Base", "Escolta"],
+        "valor": 33000000
+      },
+      {
+        "name": "Trae Young",
+        "equipo": "Atlanta Hawks",
+        "posicion": ["Base"],
+        "valor": 37095000
+      },
+      {
+        "name": "DeMar DeRozan",
+        "equipo": "Chicago Bulls",
+        "posicion": ["Ala-pivot, Alero"],
+        "valor": 27300000
+      },
+      {
+        "name": "LaMelo Ball",
+        "equipo": "Charlotte Hornets",
+        "posicion": ["Base", "Escolta"],
+        "valor": 8623920
+      },
+      {
+        "name": "Derrick Rose",
+        "equipo": "New York Knicks",
+        "posicion": ["Base"],
+        "valor": 14520730
+      },
+      {
+        "name": "Paolo Banchero",
+        "equipo": "Orlando Magic",
+        "posicion": ["Ala-pivot, Alero"],
+        "valor": 11055120
+      }
+    ]
+  }
+]
